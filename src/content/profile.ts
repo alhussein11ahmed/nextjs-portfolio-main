@@ -18,8 +18,8 @@ export const profile = {
 	} satisfies I18n,
 
 	tagline: {
-		en: 'I turn product requirements into reliable software, from architecture to release.',
-		ar: 'أحوّل متطلبات المنتج إلى برمجيات موثوقة، من المعمارية حتى الإطلاق.',
+		en: 'I turn ideas into architecture, from concept to completion.',
+		ar: 'أحوّل متطلبات المشروع إلى حلول معمارية متكاملة، من الفكرة والتخطيط حتى التفاصيل والتنفيذ.',
 	} satisfies I18n,
 
 	location: { en: 'Amman, Jordan', ar: 'عمّان، الأردن' } satisfies I18n,
@@ -29,10 +29,10 @@ export const profile = {
 
 	links: {
 		github: 'https://github.com/alhussein11ahmed',
-		linkedin: 'https://www.linkedin.com/in/haithamassoli/',
-		website: 'https://assoli.site',
-		resume: 'https://cv.assoli.site',
-		playStore: 'https://play.google.com/store/apps/dev?id=6385259170030268414',
+		linkedin: 'https://www.linkedin.com/in/ahmedalhussein/',
+		website: 'https://ahmedalhussein.site',
+		resume: 'https://cv.ahmedalhussein.site',
+		playStore: 'https://play.google.com/store/apps/dev?id=6427483784773595053',
 	},
 
 	about: {

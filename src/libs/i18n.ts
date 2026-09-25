@@ -4,7 +4,7 @@ export type Locale = (typeof locales)[number];
 export const defaultLocale: Locale = "en";
 
 /** Canonical origin. Metadata needs it to resolve relative canonical/og URLs. */
-export const SITE = "https://assoli.site";
+export const SITE = "https://ahmedahussein.site";
 export const dirOf = (locale: Locale) => (locale === "ar" ? "rtl" : "ltr");
 export const isLocale = (v: string): v is Locale =>
   (locales as readonly string[]).includes(v);

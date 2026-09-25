@@ -3,11 +3,11 @@ import type { Locale } from "./i18n";
 /** Every user-facing string, in both languages. */
 export const ui = {
 	en: {
-		'meta.title': 'Haitham Assoli: full-stack web & mobile engineer',
+		'meta.title': 'Ahmed Al-Hussein: Architect and Graphic Designer',
 		'meta.desc':
 			'Full-stack engineer building web, iOS, and Android products from architecture and interface design through release and support.',
-		'name.latin': 'Haitham Assoli',
-		'name.arabic': 'هيثم العسولي',
+		'name.latin': 'Ahmed Al-Hussein',
+		'name.arabic': 'أحمد الحسين',
 		'nav.work': 'Work',
 		'nav.about': 'About',
 		'nav.hire': 'Hire me',
