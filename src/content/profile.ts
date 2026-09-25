@@ -8,13 +8,13 @@ import type {
 
 export const profile = {
 	name: {
-		en: 'Haitham Assoli',
-		ar: 'هيثم العسولي',
+		en: 'Ahmed Al-Hussein',
+		ar: 'أحمد الحسين',
 	} satisfies I18n,
 
 	title: {
-		en: 'Web & Mobile Full-Stack Developer',
-		ar: 'مطوّر ويب وتطبيقات موبايل full-stack',
+		en: 'Architect and Graphic Designer',
+		ar: 'مهندس معماري و مصمم جرافيك',
 	} satisfies I18n,
 
 	tagline: {
@@ -28,7 +28,7 @@ export const profile = {
 	phone: '+962 77 619 3666',
 
 	links: {
-		github: 'https://github.com/haithamassoli',
+		github: 'https://github.com/alhussein11ahmed',
 		linkedin: 'https://www.linkedin.com/in/haithamassoli/',
 		website: 'https://assoli.site',
 		resume: 'https://cv.assoli.site',
